@@ -6,7 +6,7 @@ Created by Andrew Minerva
 2. User interaction.  Allows the user to move the ball obstacle using wasd, the ball obstacle reacts to the cloth in a realistic way.
 3. Ripping/Tearing When forces exceed a certain amount the cloth will rip/tear in a realistic way.
 
-<div style="height: 329.27px; width: 300.00px; position:relative;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/6532e1f1c21eebe762f5206e" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
+https://www.kapwing.com/videos/6532e1f1c21eebe762f5206e
 
 
 I faced two major problems working on this project, the first being diagonal cross sections between nodes,  I eventually removed this element as I found that horizontal and vertical line segments were enough to create believable behavior.
