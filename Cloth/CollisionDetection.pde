@@ -1,3 +1,5 @@
+//Both of these collision detections work
+
 void detectCollision(){
   for(int i = 0; i < numRopes; i++){
     for(int j = 0; j < numNodes; j++){
@@ -35,22 +37,6 @@ void detectCollision(){
 //     } 
 //  }
 //}
-
-//void detectCollisionNodes(int row, int col){
-//  for(int i = row + 1; i < numRopes; i++){
-//    for(int j = col + 1; j < numNodes; j++){
-      
-//        Vec2 delta = node[row][col].pos.minus(node[i][j].pos);
-//        float dist = delta.length();
-//        //println(dist);
-//        if(dist < 0){
-//          float overlap = 0.5f;
-//          node[row][col].pos.subtract(delta.normalized().times(overlap));
-//          node[i][j].pos.add(delta.normalized().times(overlap));
-//        }
-      
-//      if(node[row][col].pos == node[i][j].pos){
-//        println("here");
 //      }
 //    }
 //  }
