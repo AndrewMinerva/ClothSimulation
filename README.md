@@ -18,3 +18,9 @@ This video features nodes over the cloth mesh to create a solid cloth object
 I faced two major problems working on this project, the first being diagonal cross sections between nodes,  I eventually removed this element as I found that horizontal and vertical line segments were enough to create believable behavior.
 
 The other problem I faced when creating the project was that nodes, when given sufficient energy, would fly too far and never be able to recover, this in turn would cause the nodes around it to stretch to their maximum and never relax.  I solved this behavior by simply creating small link lengths that would not generate a force large enough to destabilize the simulation.
+
+Art contest submission
+
+While working on creating diagonal cross sections I came across some very funy unexpected behavior.  
+![image](https://github.com/AndrewMinerva/ClothSimulation/assets/122182702/950d59c9-ef56-401b-998e-aed9115c94d7)
+
