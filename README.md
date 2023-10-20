@@ -8,6 +8,8 @@ Created by Andrew Minerva
 
 https://www.kapwing.com/videos/6532e1f1c21eebe762f5206e
 
+This video features ripping/tearing, cloth simulation, and user interaction as the red ball is moved by the user to create tears in the fabric.
+
 
 I faced two major problems working on this project, the first being diagonal cross sections between nodes,  I eventually removed this element as I found that horizontal and vertical line segments were enough to create believable behavior.
 
