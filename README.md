@@ -6,7 +6,7 @@ Created by Andrew Minerva
 2. User interaction.  Allows the user to move the ball obstacle using wasd, the ball obstacle reacts to the cloth in a realistic way.
 3. Ripping/Tearing When forces exceed a certain amount the cloth will rip/tear in a realistic way.
 
-<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/0EJrHWr_xkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/youtube/">youtube embed video</a> generator</small></iframe></div>
+https://www.youtube.com/shorts/0EJrHWr_xkI
 
 This video features ripping/tearing, cloth simulation, and user interaction as the red ball is moved by the user to create tears in the fabric.
 
