@@ -10,7 +10,7 @@ https://www.kapwing.com/videos/6532e1f1c21eebe762f5206e
 
 This video features ripping/tearing, cloth simulation, and user interaction as the red ball is moved by the user to create tears in the fabric.
 
-https://www.kapwing.com/videos/6532e1f1c21eebe762f5206e
+https://youtube.com/shorts/0EJrHWr_xkI?feature=share
 
 This video features nodes over the cloth mesh to create a solid cloth object
 
