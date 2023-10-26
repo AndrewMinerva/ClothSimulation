@@ -21,6 +21,6 @@ The other problem I faced when creating the project was that nodes, when given s
 
 Art contest submission
 
-While working on creating diagonal cross sections I came across some very funy unexpected behavior.  
+While working on creating diagonal cross sections I came across some very funny unexpected behavior.  
 https://im5.ezgif.com/tmp/ezgif-5-999c300b60.gif
 
