@@ -21,6 +21,8 @@ The other problem I faced when creating the project was that nodes, when given s
 
 Art contest submission
 
-While working on creating diagonal cross sections I came across some very funny unexpected behavior.  
-https://im5.ezgif.com/tmp/ezgif-5-999c300b60.gif
+While working on creating diagonal cross sections I came across some very unexpected behavior.  
+
+
+![ezgif com-video-to-gif](https://github.com/AndrewMinerva/ClothSimulation/assets/122182702/6e89e9a4-191d-4ad2-8949-dea8e0b3a247)
 
